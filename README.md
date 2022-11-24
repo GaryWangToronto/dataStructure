@@ -23,7 +23,7 @@ ddd
 
 ![QRCode](qrcode.jpg)
 
-## 更多说明     ppppppppp
+##                     oooooooooooooooooooooooooooooo
 
 * 课程更新阶段，暂时只有Java语言版本源码，课程更新完毕后会先上线C++版本源码。在本年度(2018年)有上线Python版本源码的计划。对于其他语言支持，暂时没有计划。
 
